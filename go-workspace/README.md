@@ -55,16 +55,16 @@ nx g @nx-go/nx-go:convert-to-one-mod
 
 ### Generators
 
-- `application`: [Generate a Go application](./docs/generators/application.md)
-- `library`: [Generate a Go library](./docs/generators/library.md)
+- `application`: [Generate a Go application](../docs/generators/application.md)
+- `library`: [Generate a Go library](../docs/generators/library.md)
 
 ### Executors
 
-- `build`: [Build a Go project](./docs/executors/build.md)
-- `lint`: [Format and lint a Go project](./docs/executors/lint.md)
-- `serve`: [Run a Go application](./docs/executors/serve.md)
-- `test`: [Run tests of a Go project](./docs/executors/test.md)
-- `tidy`: [Ensures go.mod file matches a project source code](./docs/executors/tidy.md)
+- `build`: [Build a Go project](../docs/executors/build.md)
+- `lint`: [Format and lint a Go project](../docs/executors/lint.md)
+- `serve`: [Run a Go application](../docs/executors/serve.md)
+- `test`: [Run tests of a Go project](../docs/executors/test.md)
+- `tidy`: [Ensures go.mod file matches a project source code](../docs/executors/tidy.md)
 
 > [!TIP]
 > You can use `nx list @nx-go/nx-go` to see list capabilities.
