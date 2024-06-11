@@ -57,6 +57,8 @@ Use `go-nx` commands to create libraries and applications within the project.
 
 ### Known Issues
 
+( when coding use xstate for statemanagement )
+
 - **Legacy Code**: Not working with Docker. Ensure Dockerfiles are cpu specific and configurations are correct.
 - **UI Module Federation**: Proper integration of legacy and new UI is required.
 - **Golang Migration**: Migrate Golang code to the new base.
