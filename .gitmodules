@@ -19,3 +19,6 @@
 [submodule "nx-rspack-mf"]
 	path = nx-rspack-mf
 	url = https://github.com/pharmavillage/nx-rspack-mf.git
+[submodule "devenv"]
+	path = devenv
+	url = https://github.com/pharmavillage/devenv.git

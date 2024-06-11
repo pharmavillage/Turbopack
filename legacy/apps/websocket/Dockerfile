@@ -1,9 +1,11 @@
-FROM node:11
+FROM node
 
 RUN npm install nodemon -g
 
+COPY . /server/
+
 WORKDIR /server
 
-COPY init.sh /init.sh
-
 CMD /bin/bash /init.sh
+
+
